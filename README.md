@@ -1,4 +1,7 @@
 POCVT
 =====
 
-Python OpenCV Tests
+Python OpenCV Basics Tests
+
+Nothing new over here... 
+
